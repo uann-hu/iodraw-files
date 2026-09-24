@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kOpc_H4C1aaW3vq3hpsc">
-    <mxGraphModel dx="2053" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#7EA6E0" math="0" shadow="0">
+    <mxGraphModel dx="2053" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="62f7hVcIs84Zbz4mFaB5-5" value="标准文本&#xa;清洗与分词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="59" y="576" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="62f7hVcIs84Zbz4mFaB5-6" value="16 kHz 单声道&#xa;音频信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="62f7hVcIs84Zbz4mFaB5-6" value="16 kHz 单声道&#xa;音频信号" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="332" y="576" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="62f7hVcIs84Zbz4mFaB5-7" value="视频帧序列&#xa;时间戳校准" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
